@@ -1,0 +1,30 @@
+Job Title: AI/ML Engineer - Fresher
+
+Location: Chennai, India
+Experience: 0 to 1 year
+Employment Type: Full-Time
+
+Job Summary:
+We are looking for a passionate and self-driven AI/ML Engineer to join our team. You will work on exciting machine learning, NLP, and data processing projects that solve real-world problems. This is an excellent opportunity for fresh graduates to build production-level AI solutions.
+
+Key Responsibilities:
+- Work with the data science team to build, train, and evaluate machine learning models.
+- Use NLP techniques to extract and process unstructured data.
+- Apply deep learning models (CNNs, RNNs, Transformers) for classification and prediction tasks.
+- Collaborate with developers to deploy AI models in production using REST APIs.
+- Document model architecture, datasets, and evaluation metrics.
+
+Required Skills:
+- Strong understanding of Python programming
+- Knowledge of machine learning concepts and algorithms
+- Familiarity with NLP libraries like NLTK, SpaCy, or Transformers
+- Experience using ML frameworks like Scikit-learn, TensorFlow, or PyTorch
+- Good problem-solving and analytical skills
+- Ability to work in a team environment and learn quickly
+
+Preferred Qualifications:
+- B.E/B.Tech in Computer Science, Artificial Intelligence, or related fields
+- Internship experience or academic projects in AI/ML
+- Basic understanding of cloud platforms like AWS, GCP, or Azure
+
+We encourage freshers with a strong passion for AI and a portfolio of projects on GitHub to apply.
